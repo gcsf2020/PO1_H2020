@@ -1,0 +1,11 @@
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque.deps.json
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque.runtimeconfig.json
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque.runtimeconfig.dev.json
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque.dll
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/bin/Debug/netcoreapp3.1/Mediatheque.pdb
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/obj/Debug/netcoreapp3.1/Mediatheque.csprojAssemblyReference.cache
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/obj/Debug/netcoreapp3.1/Mediatheque.AssemblyInfoInputs.cache
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/obj/Debug/netcoreapp3.1/Mediatheque.AssemblyInfo.cs
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/obj/Debug/netcoreapp3.1/Mediatheque.dll
+/Users/jhivagonguyen/Projects/20200225/Mediatheque/Mediatheque/obj/Debug/netcoreapp3.1/Mediatheque.pdb
